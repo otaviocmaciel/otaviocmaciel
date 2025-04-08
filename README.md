@@ -11,17 +11,6 @@
   <br/>📚 Estudante de Engenharia Eletrônica pela UFRPE
 </p>
 
----
-
-### 🔥 GitHub Stats
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=otaviomaciel&show_icons=true&theme=tokyonight" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviomaciel&layout=compact&theme=tokyonight" />
-</div>
-
----
-
 ### 🛠️ Tecnologias e Ferramentas
 
 <div style="display: flex; flex-wrap: wrap;">
