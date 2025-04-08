@@ -28,16 +28,6 @@
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
 </div>
 
----
-
-### 📊 Visitantes
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=otaviomaciel&style=flat-square&color=green" alt="Profile views"/>
-</p>
-
----
-
 ### 📱 Contato
 
 <p align="center">
